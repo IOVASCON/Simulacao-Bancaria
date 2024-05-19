@@ -10,7 +10,8 @@ public class SimulacaoBancaria {
         // Inicializa a variável saldo com zero
         double saldo = 0;
 
-        // Loop infinito para manter o programa em execução até que o usuário escolha encerrar
+        // Loop infinito para manter o programa em execução até que o usuário escolha
+        // encerrar
         while (true) {
             // Exibe o menu de opções para o usuário
             System.out.println("Escolha uma opção:");
