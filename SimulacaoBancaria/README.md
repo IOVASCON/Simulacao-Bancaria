@@ -1,6 +1,6 @@
 # Simulação Bancária
 
-Este é um programa simples em Java para simular operações bancárias básicas. A aplicação permite ao usuário realizar depósitos, saques e consultar o saldo em uma conta bancária virtual.
+Este é um programa simples em Java para simular operações bancárias básicas. A aplicação permite ao usuário realizar depósitos, saques e consultar o saldo em uma conta bancária virtual. Desafio módulo 2 - item 10 do programa " Santander 2024 - Backend com Java "
 
 ## Funcionalidades
 
